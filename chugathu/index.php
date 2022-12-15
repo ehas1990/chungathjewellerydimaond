@@ -214,7 +214,7 @@
                                 <!-- <h1>jaquet - droz grande</h1> -->
                                 <span>Flat 15% OFF Exclusive On Online </span>
                                 <p class="slider_price">Earn Assured   <span>POINTS UPTO 4000 </span></p>
-                                <a class="button" href="#">shopping now</a>
+                                <a class="button" href="https://mydukaan.io/royal4802">Shop Now</a>
                             </div>
                         </div>
                     </div>
@@ -229,7 +229,7 @@
                                 <!-- <h1>Blancpain Villeret</h1> -->
                                 <span>Flat 15% OFF Exclusive On Online </span>
                                 <p class="slider_price">Diamond  Jewellery<span>VALUE </span></p>
-                                <a class="button" href="#">shopping now</a>
+                                <a class="button" href="https://mydukaan.io/royal4802">shop Now</a>
                             </div>
                         </div>
                     </div>
@@ -244,7 +244,7 @@
                                 <!-- <h1>deep dive watches</h1> -->
                                 <span>Flat 15% OFF Exclusive On Online </span>
                                 <p class="slider_price">Earn Assured   <span>POINTS UPTO 4000 </span></p>
-                                <a class="button" href="#">shopping now</a>
+                                <a class="button" href="https://mydukaan.io/royal4802">Shop Now</a>
                             </div>
                         </div>
                     </div>
@@ -345,7 +345,7 @@
                             <p>Sale Off 20% All Products</p>
                             <h2>New Trending Collection</h2>
                             <span>We Believe That Good Design is Always in Season</span>
-                            <a href="#">shopping Now</a>
+                            <a href="https://mydukaan.io/royal4802">Shop Now</a>
                        </div>
                     </div>
                 </div>   
@@ -402,7 +402,61 @@
             </div>
         </section>
         <!--blog section area end-->
-         
+        <section class="blog_section blog_black">
+            <div class="container">
+               <div class="row">
+                   <div class="col-12">
+                       <div class="section_title">
+                           <!-- <h2>Latest </h2> -->
+                       </div>
+                   </div>
+               </div>
+                <div class="row">
+                    <div class="blog_wrapper blog_column3 owl-carousel">
+                        <div class="col-lg-4">
+                            <div class="single_blog">
+                                <div class="blog_thumb">
+                                    <a href="#"><img src="assets/img/blog2/current.jpg" alt=""></a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="single_blog">
+                                <div class="blog_thumb">
+                                    <a href="#"><img src="assets/img/blog2/DIAMOND EXCHANGE.1-01.jpg" alt=""></a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="single_blog">
+                                <div class="blog_thumb">
+                                    <a href="#"><img src="assets/img/blog2/DIAMOND.2-01.jpg" alt=""></a>
+                                </div>
+                               
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="single_blog">
+                                <div class="blog_thumb">
+                                    <a href="#"><img src="assets/img/blog2/GR.1-01.jpg" alt=""></a>
+                                </div>
+                               
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="single_blog">
+                                <div class="blog_thumb">
+                                    <a href="#"><img src="assets/img/blog2/GR.1R-01.jpg" alt=""></a>
+                                </div>
+                               
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     
 
         <!--footer area start-->
