@@ -413,6 +413,22 @@
                </div>
                 <div class="row">
                     <div class="blog_wrapper blog_column3 owl-carousel">
+                    <div class="col-lg-4">
+                            <div class="single_blog">
+                                <div class="blog_thumb">
+                                    <a href="#"><img src="assets/img/blog2/27-12-22.jpg" alt=""></a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="single_blog">
+                                <div class="blog_thumb">
+                                    <a href="#"><img src="assets/img/blog2/20-12-22.jpg" alt=""></a>
+                                </div>
+                                
+                            </div>
+                        </div>
                         <div class="col-lg-4">
                             <div class="single_blog">
                                 <div class="blog_thumb">
